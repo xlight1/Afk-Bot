@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
+    "username": "sun_demon2",
+    "password": "12345678",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "sundemon.aternos.me",
+    "port": 41404,
     "version": "1.19.3"
   },
 
